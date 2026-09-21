@@ -18,9 +18,8 @@ const prettyCodeOptions = {
   keepBackground: false,
 };
 
-// https://astro.build/config
 export default defineConfig({
-  site: 'https://rihab114.github.io',
+  site: CONFIG.site.url,
   base: '/profile',
 
   vite: {
