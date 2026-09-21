@@ -3,7 +3,7 @@ export const CONFIG = {
   // Site Settings
   // ---------------------------------------------------------------------------
   site: {
-    url: "https://wecarecot.me/profile/",
+    url: "https://rihab114.github.io/profile/",
     locale: "en_US",
     twitterHandle: "",
   },
