@@ -27,9 +27,6 @@ import { Agile } from "@/components/ui/svgs/agile";
 export const DATA = {
   name: "Rihab Ghrab - ML Engineer",
   initials: "AM",
-  url: "https://alexmercer.dev",
-  location: "Austin, TX",
-  locationLink: "https://www.google.com/maps/place/austin+tx",
   description:
     "Senior Machine Learning Engineer. I love turning data into smart systems, models into products, and ideas into AI that actually works.",
   summary:
